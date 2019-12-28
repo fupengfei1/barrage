@@ -7,4 +7,6 @@
 
 初次使用github工具不太熟练，源码和 依赖的库都一起打包成rar 上传。见谅。
 
+如果有疑问 可以 qq联系：  149454635
+
 url = "wss://www.colossusjinxin.com:11688/lcj控制台"
