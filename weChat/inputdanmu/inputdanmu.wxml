@@ -1,0 +1,16 @@
+<view class="classname">
+    <form bindsubmit="sendMessage" bindreset="formReset">
+        <view class="classname">
+            <input name="message"  id="textvalue" style="background-color:#fcf7fc" value="{{message}}">
+            </input>
+            <button size="mini" formType="submit">send</button>
+        </view>
+    </form>
+    <view class="listclass">
+        <!-- 发送的信息 -->
+        <!-- <span>发送的消息</span> -->
+        <view wx:for="{{send}}" class="flex-item bc_green" wx:for-item="i" >
+          <text  class="item">  {{i}} </text>          
+        </view>
+    </view>
+</view>

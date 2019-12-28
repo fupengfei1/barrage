@@ -1,0 +1,11 @@
+D:\c_sharp_programe\WinFormWebsocket\bin\Debug\WinFormWebsocket.exe.config
+D:\c_sharp_programe\WinFormWebsocket\obj\Debug\WinFormWebsocket.Form1.resources
+D:\c_sharp_programe\WinFormWebsocket\obj\Debug\WinFormWebsocket.Properties.Resources.resources
+D:\c_sharp_programe\WinFormWebsocket\obj\Debug\WinFormWebsocket.csproj.GenerateResource.Cache
+D:\c_sharp_programe\WinFormWebsocket\bin\Debug\WinFormWebsocket.exe
+D:\c_sharp_programe\WinFormWebsocket\bin\Debug\WinFormWebsocket.pdb
+D:\c_sharp_programe\WinFormWebsocket\obj\Debug\WinFormWebsocket.exe
+D:\c_sharp_programe\WinFormWebsocket\obj\Debug\WinFormWebsocket.pdb
+D:\c_sharp_programe\WinFormWebsocket\obj\Debug\WinFormWebsocket.FrmShow.resources
+D:\c_sharp_programe\WinFormWebsocket\obj\Debug\WinFormWebsocket.Form3.resources
+D:\c_sharp_programe\WinFormWebsocket\obj\Debug\WinFormWebsocket.csprojResolveAssemblyReference.cache

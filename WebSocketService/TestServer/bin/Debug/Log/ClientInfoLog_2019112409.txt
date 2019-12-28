@@ -1,0 +1,8 @@
+2019-11-24 09:04:44.2472 Display Session Info:1
+2019-11-24 09:04:44.2662 ID:287af079-b636-4ff5-8c04-cadbfa10aed4, Remote:10.104.6.73:8959, Path:/lcj%E6%8E%A7%E5%88%B6%E5%8F%B0, LastActiveTime:2019/11/24 9:04:44, StartTime:2019/11/24 8:45:39
+2019-11-24 09:09:44.2664 Display Session Info:1
+2019-11-24 09:09:44.2664 ID:287af079-b636-4ff5-8c04-cadbfa10aed4, Remote:10.104.6.73:8959, Path:/lcj%E6%8E%A7%E5%88%B6%E5%8F%B0, LastActiveTime:2019/11/24 9:09:24, StartTime:2019/11/24 8:45:39
+2019-11-24 09:42:21.0823 Display Session Info:0
+2019-11-24 09:47:21.1045 Display Session Info:0
+2019-11-24 09:52:21.1046 Display Session Info:0
+2019-11-24 09:57:21.1048 Display Session Info:0
